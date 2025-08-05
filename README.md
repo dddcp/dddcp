@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2010-09<br>📚 I'm currently learning everythings<br>🎯 Goals: coding is a hobby<br>🎲 Fun fact: none</p>
+<p align="left">✨ Creating bugs since 2010-09<br>📚 I'm currently learning everything<br>🎯 Goals: coding is a hobby<br>🎲 Fun fact: none</p>
 
 ###
 
