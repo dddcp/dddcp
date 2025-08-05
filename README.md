@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2010-09<br>📚 I'm currently learning everything<br>🎯 Goals: coding is a hobby<br>🎲 Fun fact: none</p>
+<p align="left">
+  ✨ Professionally crafting bugs since 2010-09. If bugs were an Olympic sport, I'd have a gold medal by now.<br>
+  📚 Currently learning everything... except how to stop hitting the snooze button.<br>
+  🎯 Goals: Coding is a hobby... and world domination is just a side gig. <br>
+  🎲 Fun fact: I once tried to tell a joke to my cat, but it just stared at me like I was speaking Klingon.</p>
 
 ###
 
