@@ -3,17 +3,15 @@
 <!-- 如果以后做了自己的banner图，把下面这行链接换掉即可 -->
 <img src="https://raw.githubusercontent.com/dddcp/dddcp/main/header.svg" alt="dddcp 的页面横幅" width="100%" />
 
-# 嗨，我是 dddcp 👾
-
 ### *专业写 Bug 十年整*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0B88F7&center=true&vCenter=true&width=435&lines=AI+赋能+创造者;跨平台+构建者;统治世界...的副业)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0B88F7&center=true&vCenter=true&width=435&lines=写Bug是天赋;修Bug靠运气;上线全看天意)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🧬 关于我：调试的艺术
+### 🧬 关于我
 
 ```javascript
 const dddcp = {
