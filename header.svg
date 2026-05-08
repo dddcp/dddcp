@@ -1,0 +1,33 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 深色背景 -->
+  <rect width="800" height="200" rx="12" fill="#0D1117" />
+  
+  <!-- 装饰性渐变线条 -->
+  <rect x="0" y="0" width="800" height="4" fill="url(#gradientLine)" rx="2" />
+  
+  <defs>
+    <linearGradient id="gradientLine" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+  </defs>
+
+  <!-- 主标题 -->
+  <text x="400" y="85" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="url(#textGradient)">
+    dddcp
+  </text>
+
+  <!-- 副标题 -->
+  <text x="400" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="400" fill="#8B949E">
+    全栈开发者 · 工具创作者 · 开源贡献者
+  </text>
+
+  <!-- 底部装饰点 -->
+  <circle cx="360" cy="160" r="4" fill="#30363D" />
+  <circle cx="400" cy="160" r="4" fill="#58A6FF" />
+  <circle cx="440" cy="160" r="4" fill="#30363D" />
+</svg>
