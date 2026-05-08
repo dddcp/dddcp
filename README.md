@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 如果以后做了自己的banner图，把下面这行链接换掉即可 -->
-<img src="https://raw.githubusercontent.com/dddcp/dddcp/main/assets/header.svg" alt="dddcp 的页面横幅" width="100%" />
+<img src="https://raw.githubusercontent.com/dddcp/dddcp/main/header.svg" alt="dddcp 的页面横幅" width="100%" />
 
 # 嗨，我是 dddcp 👾
 
